@@ -11,4 +11,5 @@ Each book will consist of 3 forms of study.
 - 1. Programming Massively Parallel Processors(Bryce, Matt)
 - 2. Computer Networking, A Top Down Approach(Bryce) 
 - 3. Ultimate -=GO Notebook(Bryce)
-- 4. Marcus Aurelius: Meditations(Bryce, Matt) 
+- 4. Marcus Aurelius: Meditations(Bryce, Matt)
+- 5. The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century(Bryce)
